@@ -1,0 +1,29 @@
+.container{
+  display:grid;
+  grid-template-columns:repeat(4,200px);
+  grid-template-rows:1fr 1fr;
+  gap:10px;
+  border-top: 1px solid grey;
+  border-left: 1px solid grey;
+}
+.container>div
+{  border-right: 1px solid grey;
+  border-bottom: 1px solid grey;
+
+}
+body
+{
+  background-color: #F4F7FB;
+  color: rgb(33, 11, 11);
+  
+}
+table
+{
+  
+  border-collapse:collapse;
+  background: #FFFFFF;
+    border: 1px solid #E2E8F0;
+}
+td,th{
+  border: 1px solid #E2E8F0;
+}
