@@ -1,16 +1,16 @@
-:root{
+:root {
   --void: #08070B;
   --abyss: #0D0B12;
   --surface: #15121C;
   --surface-light: #1D1826;
 
   --forge: #8B1E3F;
-  --ember:#C2410C;
-  --gold:#C9A227;
+  --ember: #C2410C;
+  --gold: #C9A227;
 
-  --text:#F5F1E8;
-  --text-secondary:#B8B0A3;
+  --text: #F5F1E8;
+  --text-secondary: #B8B0A3;
   --text-muted: #756E66;
-  
-  --border:#2A2432;
+
+  --border: #2A2432;
 }
