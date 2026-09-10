@@ -1,16 +1,24 @@
 :root {
-  --void: #08070B;
-  --abyss: #0D0B12;
-  --surface: #15121C;
-  --surface-light: #1D1826;
 
-  --forge: #8B1E3F;
-  --ember: #C2410C;
-  --gold: #C9A227;
+    /* BACKGROUNDS */
+    --void: #02040A;
+    --abyss: #050914;
+    --surface: #0A1020;
+    --surface-light: #111B32;
 
-  --text: #F5F1E8;
-  --text-secondary: #B8B0A3;
-  --text-muted: #756E66;
+    /* FANTASY BLUE */
+    --forge: #2563EB;
+    --arcane: #3B82F6;
+    --mystic: #6366F1;
 
-  --border: #2A2432;
+    /* RARE ACCENT */
+    --gold: #A78BFA;
+
+    /* TEXT */
+    --text: #F8FAFC;
+    --text-secondary: #AAB4C8;
+    --text-muted: #64748B;
+
+    /* BORDERS */
+    --border: #1E293B;
 }
