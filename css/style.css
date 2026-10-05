@@ -13,6 +13,28 @@ body {
 h1 {
   color: var(--forge);
 
+
+}
+
+.about p
+{
+  color:var(--text-secondary);
+}
+header
+{
+  text-align: center;
+  padding: 5%;
+  line-height: 60px;
+  background-color: var(--surface-light);
+
+}
+
+.forge-icon
+{
+  background-color:var(--text);
+  color: var(--forge);
+  padding: 0.6%;
+  border-radius:20%;
 }
 .container
 {
@@ -20,6 +42,13 @@ h1 {
   flex-direction: row;
   justify-content: space-between;
   background-color: var(--abyss);
+  border-bottom: 1px solid var(--border);
+    
+}
+.container2>a{
+  text-decoration: none;
+  color: var(--text-secondary);
+  
 }
 .container2
 {
